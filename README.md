@@ -72,6 +72,7 @@ orange|3.89|0.6
 [百度搜索](https://www.baidu.com "点击进入")
 
 ##插入代码片段
+
 ```c
 #include <stdio.h>
 int main(void)
@@ -95,3 +96,5 @@ echo "回显内容"
 reboot
 ```
 
+## 插入图片
+![lu.jpg](https://s2.loli.net/2022/08/14/q9dVRtwXPM2F7AY.jpg)
