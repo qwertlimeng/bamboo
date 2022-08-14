@@ -71,3 +71,27 @@ orange|3.89|0.6
 [bilibili弹幕网](https://www.bilibili.com "点击进入B站")
 [百度搜索](https://www.baidu.com "点击进入")
 
+##插入代码片段
+```c
+#include <stdio.h>
+int main(void)
+{
+	printf("testing...\n");
+	return 0;
+}
+```
+```cpp
+#include <iostream>
+using namespace std;
+```
+
+```python
+import os;
+```
+
+```bash
+touch file;
+echo "回显内容"
+reboot
+```
+
